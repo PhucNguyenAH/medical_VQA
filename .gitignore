@@ -1,0 +1,3 @@
+datasets/
+*.zip
+__pycache__/
