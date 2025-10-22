@@ -173,7 +173,7 @@ CODE_REV = "refs/pr/6"
 EPOCHS = 100
 batch_size = 5
 num_workers = 0
-learning_rate = 1e-6
+learning_rate = 1e-5
 
 # data = load_dataset("HuggingFaceM4/DocumentVQA")
 data = load_dataset("SonicNLP/medvqa_dataset")
